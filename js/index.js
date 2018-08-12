@@ -6,7 +6,7 @@ var transactionVue = new Vue(
     el: '#transactionHistory',
     data:
     {
-     message:"HAHA",
+  
      cart:{
        items:[]
      }, 
