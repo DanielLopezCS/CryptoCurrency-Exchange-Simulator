@@ -5,4 +5,4 @@ You can interact with this website on codepen: https://codepen.io/daniellopezcs/
 Market Page:
 
 
-![Alt text](https://github.com/DanielLopezCS/CryptoCurrency-Exchange-Simulator/blob/master/crypto.png "Market Page")
+![Alt text](https://github.com/DanielLopezCS/CryptoCurrency-Exchange-Simulator/blob/master/market.png "Market Page")
